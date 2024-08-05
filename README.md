@@ -10,19 +10,3 @@ Configuraçoes basica do VSCode para python.
 	- Material Icon Theme
 
 ![image](https://github.com/user-attachments/assets/ea6a736a-136a-49a1-8f33-63cbdf4c5704)
-
-3. arquivo settings.json
-   {
-    "workbench.startupEditor": "none",
-    "editor.fontSize": 16,
-    "explorer.compactFolders": false,
-    "code-runner.runInTerminal": true,
-    "code-runner.clearPreviousOutput": true,
-    "code-runner.executorMap": {
-        "python": "cls ; python -u",
-    },
-    "code-runner.ignoreSelection": true,
-    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
-    "workbench.iconTheme": "material-icon-theme",
-    "python.defaultInterpreterPath": "python"
-}
